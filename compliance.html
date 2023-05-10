@@ -3,7 +3,7 @@
   <head>
     <title>Compliance Reporting with R</title>
     <meta charset="utf-8" />
-    <meta name="author" content="Andrea Bringhurst" />
+    <meta name="author" content="Andrea Bringhurst and Joy Lindsay" />
     <meta name="date" content="2023-05-11" />
     <script src="compliance_files/header-attrs-2.20/header-attrs.js"></script>
     <link rel="stylesheet" href="custom.css" type="text/css" />
@@ -16,10 +16,10 @@ class: center, middle, inverse, title-slide
 # Compliance Reporting with R
 ]
 .subtitle[
-## Wow!
+## But My Process is Automated
 ]
 .author[
-### Andrea Bringhurst
+### Andrea Bringhurst and Joy Lindsay
 ]
 .date[
 ### May 11, 2023
@@ -33,12 +33,6 @@ class: center, middle, inverse, title-slide
 
 
 
-class: inverse, center
-
-# Andrea Bringhurst &amp; Joy Baule
-# Utah Tech University
-
----
 class: inverse, left
 
 # Roadmap
@@ -50,30 +44,37 @@ class: inverse, left
 ## Where We Are
 
 ---
+class: inverse, left
+
+&lt;img style="margin-top:-5px", src="images/data_cleanup.jpg" alt="" width="400"&gt;
+
+&lt;img style="margin-top:-5px", src="images/cleaning_data.jpeg" alt="" width="400"&gt;
+---
 class: left
 
 # Where We Were
 
-* Oracle Database (IR/IE)
+* Oracle database (IR/IE)
 * All reports were done via SQL
     * Long complicated code
     * Long running times
-    * Multi Step processes
-* Transition to Data Warehouse
-    * Validate the Data Warehouse
-    * Reduce Time
-    * Ease of Maintenance
-    * Documentation - Ease of Use
+    * Multi-step processes
+* Transitioning to a Data Warehouse
+    * Validate the data warehouse (Edify)
+    * Reduce time
+    * Ease of maintenance
+    * Documentation - ease of use
 
 ---
 class: left
 # What We Did
 
 * Documented all USHE Elements
-* New SQL Queries
-* Create functions for all USHE Elements
+* New SQL queries
+* Create functions for all USHE elements
 * Put the functions in a package (library) - usheUtils
-* RProject for each USHE Submission
+* RProject for each USHE submission
+* Create a package for audits (still in progress)
 
 ---
 class: inverse, left

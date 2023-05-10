@@ -176,14 +176,14 @@ a, a > code {
   right: 30px;
   font-family: 'Nunito Sans', sans-serif;
 }
-#andrea-bringhurst {
+#andrea-bringhurst-and-Joy-Lindsay {
   position: fixed;
   bottom: 40px;
   right:32px;
 }
 .title-slide {
   background-color: var(--title-slide-background-color);
-  background-image: url("images/title.jpeg");
+  background-image: url("images/title.png");
   background-size: cover;
 }
 .title-slide .remark-slide-number {
