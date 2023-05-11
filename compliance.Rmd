@@ -47,9 +47,14 @@ class: inverse, left
 ---
 class: inverse, left
 
-<img style="margin-top:-5px", src="images/data_cleanup.jpg" alt="" width="400">
+.pull-left[
+  <img style="padding-top:120px", src="images/data_cleanup.jpg" alt="" width="1000">
+  ]
 
-<img style="margin-top:-5px", src="images/cleaning_data.jpeg" alt="" width="400">
+.pull-right[
+  <img style="padding-top:60px", src="images/cleaning_data.jpeg" alt="" width="600">
+  ]
+  
 ---
 class: left
 
