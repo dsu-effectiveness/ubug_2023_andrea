@@ -97,7 +97,7 @@ AKA: "Everything is Awesome!"
 
 * Successful Data Auditing: Through the use of daily automated data audit reports, data stewards at Utah Tech are receiving daily reports to address errors. This process has created a cleaner data set that we use to create our reporting submission files.
 
-* Error Resolution: Error or "Fix" files that come back to us after an initial report submission are jokingly referred to as "bleeding" with red/fatal errors. By writing simple mutate statements within the body of our file submission markdown file we can quickly resolve fatal errors and resubmit for additional review.
+* Error Resolution: Error or "Fix" files that come back to us after an initial report submission are jokingly referred to as "bleeding" with red/fatal errors. By writing simple mutate statements within the body of our submission markdown file we can quickly resolve fatal errors and resubmit for additional review.
 
 ---
 class: left
