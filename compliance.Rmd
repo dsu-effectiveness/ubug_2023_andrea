@@ -3,6 +3,7 @@ title: "Compliance Reporting with R"
 subtitle: "But My Process is Automated"
 author: "Andrea Bringhurst and Joy Lindsay"
 date: "May 11, 2023"
+
 output: 
   xaringan::moon_reader:
     includes:
