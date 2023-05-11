@@ -71,6 +71,7 @@ class: left
 # What We Did
 
 * Documented all USHE Elements
+* Added data to Edify (including ETL processes)
 * New SQL queries
 * Create functions for all USHE elements
 * Put the functions in a package (library) - usheUtils
